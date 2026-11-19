@@ -18,4 +18,5 @@ pit.xlabel("Month")
 pit.ylabel("Rvenue")
 pit.xticks(rotation= 45)
 pit.tight_layout()
+pit.savefig
 pit.show()
