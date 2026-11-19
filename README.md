@@ -128,7 +128,8 @@ Step 9: Reusable Workflow
 Developed reusable Python functions for revenue calculations and city-wise sales analysis.
 
 7. Key Business Metrics and power Bi dashbords
-   outputs/Power BI Dashbord
+   ## Power BI Dashboard
+   ![Power BI Dashboard](outputs/power_bi_dashboard.png)
 
 - Total Revenue
 - Total Completed Orders
